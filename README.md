@@ -34,4 +34,4 @@
 
 ---
 
-*Built with caffeine ☕✨.*
+*Built with caffeine ☕✨*
