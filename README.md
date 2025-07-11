@@ -4,9 +4,9 @@
 ---
 
 ### ✨ About Me:
-- 🛸 Focus: Algorithms, Software Engineering, and LeetCode daily grind
+- 🛸 Focus: Algorithms, UI/UX Design, and LeetCode daily grind
 - 📝 Writing tech & life notes on [Medium](https://medium.com/@reginakirana)
-- 🎧 Running on: caffeine, Charli XCX, and chaotic energy
+- 🎧 Running on: caffeine, Charli XCX, and playful energy
 
 ---
 
