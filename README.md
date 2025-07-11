@@ -21,8 +21,25 @@
 ---
 
 ### 📈 GitHub Stats:
+
+### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReginaKirana&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReginaKirana&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ReginaKirana&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
