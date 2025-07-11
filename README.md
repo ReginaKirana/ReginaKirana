@@ -21,14 +21,8 @@
 ---
 
 ### 📈 GitHub Stats:
-
-### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReginaKirana&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 ---
