@@ -25,10 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ReginaKirana&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### ☕ Let's Connect:
