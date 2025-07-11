@@ -25,8 +25,6 @@
 
 ---
 
----
-
 ### ☕ Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/regina-sasikirana-farikh-50533828b) 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/reginakirana)
@@ -34,4 +32,4 @@
 
 ---
 
-*Built with caffeine ☕, code 💻, and a little chaos ✨.*
+*Built with caffeine ☕✨.*
