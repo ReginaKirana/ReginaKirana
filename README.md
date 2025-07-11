@@ -20,15 +20,11 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReginaKirana&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReginaKirana&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🛠 Projects & Playgrounds:
-- [`crash-the-stack 🚀`](https://github.com/ReginaKirana/crash-the-stack) → LeetCode grind with caffeine & chaos
-- 
 ---
 
 ### ☕ Let's Connect:
