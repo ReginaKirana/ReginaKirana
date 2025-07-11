@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Regina 🚀</h1>
+<h1 align="center">Hi, I'm Regina | Rena 🚀</h1>
 <p align="center"> Problem Solver | Code & Coffee Enthusiast</p>
 
 ---
