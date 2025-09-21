@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Regina 🚀</h1>
-<p align="center"> Problem Solver | Code & Coffee Enthusiast</p>
+<p align="center"> Problem Solver | Code | Coffee </p>
 
 ---
 
