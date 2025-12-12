@@ -2,9 +2,9 @@
 
 ---
 
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/reginakirana/count.svg" alt="Visitor's Count" />
 </div>
 
 ---
@@ -12,5 +12,3 @@
 ### ☕ Let's Connect:
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/reginakirana)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@reginakirana)
-
----
