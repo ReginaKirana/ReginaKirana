@@ -1,5 +1,6 @@
 <h1>Hi, I'm Regina 🌟</h1>
   <p><i>Informatics Student</i></p>
+
 ---
 
 ### ☕ Let's Connect:
