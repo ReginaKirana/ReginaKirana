@@ -2,10 +2,7 @@
 
 ---
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://hits.sh/github.com/ReginaKirana/ReginaKirana.svg?style=for-the-badge&label=Visitors&extraCount=0" />
-</div>
+
 
 
 ---
