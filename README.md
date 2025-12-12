@@ -4,8 +4,9 @@
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/reginakirana/count.svg/" />
+  <img src="https://hits.sh/github.com/ReginaKirana/ReginaKirana.svg?style=for-the-badge&label=Visitors&extraCount=0" />
 </div>
+
 
 ---
 
