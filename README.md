@@ -30,6 +30,11 @@
   </tr>
 </table>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReginaKirana&theme=radical&hide_border=true" width="100%" alt="Regina's GitHub Streak" />
+</p>
 
 ---
 
