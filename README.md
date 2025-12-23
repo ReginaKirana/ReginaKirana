@@ -18,6 +18,7 @@
 ---
 
 ### 📊 Activity
+
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -28,6 +29,8 @@
     </td>
   </tr>
 </table>
+
+
 ---
 
 ### ☕ Let's Connect
