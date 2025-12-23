@@ -18,10 +18,16 @@
 ---
 
 ### 📊 Activity
-![nmixx-nswer](https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=radical)
-
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0" width="100%" style="border-radius: 10px;">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=radical&hide=jupyter%20notebook&card_width=400" width="100%">
+    </td>
+  </tr>
+</table>
 ---
 
 ### ☕ Let's Connect
