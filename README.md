@@ -19,35 +19,40 @@
 
 ### 📊 Activity
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0" width="60%" style="border-radius: 10px;">
+</p>
+
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0" width="100%" style="border-radius: 10px;">
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true" 
+        />
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true" 
+        />
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true" width="100%" />
+      </picture>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=radical&hide=jupyter%20notebook&card_width=400" width="100%">
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=tokyonight&hide_border=true" 
+        />
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=default&hide_border=true" 
+        />
+        <img alt="GitHub Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=default&hide_border=true" width="100%" />
+      </picture>
     </td>
   </tr>
 </table>
-
----
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=tokyonight&hide_border=true" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=default&hide_border=true" 
-    />
-    <img 
-      alt="GitHub Streak Stats" 
-      src="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=default&hide_border=true" 
-      width="100%"
-    />
-  </picture>
-</p>
 
 ---
 
