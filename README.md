@@ -33,13 +33,13 @@
   </picture>
 </div>
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td width="50%" align="center">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=radical&hide=jupyter%20notebook&hide_border=true" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=dark&hide=jupyter%20notebook&hide_border=true" 
         />
         <source 
           media="(prefers-color-scheme: light)" 
