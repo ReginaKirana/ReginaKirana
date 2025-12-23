@@ -2,7 +2,7 @@
 
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td width="40%">
       <img src="https://github.com/user-attachments/assets/b2d4bffc-5b43-4e15-a2a3-8654b4ccf36a" width="100%">
