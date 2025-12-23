@@ -40,13 +40,13 @@
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook&hide_border=true" 
+          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true" 
         />
         <source 
           media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=flat&hide=jupyter%20notebook&hide_border=true" 
+          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true" 
         />
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=flat&hide=jupyter%20notebook&hide_border=true" width="100%" />
+        <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true" width="100%" />
       </picture>
     </td>
     <td width="50%" align="center">
