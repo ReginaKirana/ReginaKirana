@@ -20,7 +20,6 @@
 ### 📊 Activity
 ![nmixx-nswer](https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0)
 
-![Regina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReginaKirana&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=radical)
 
 ---
