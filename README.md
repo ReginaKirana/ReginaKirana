@@ -10,8 +10,8 @@
       <img src="https://github.com/user-attachments/assets/b2d4bffc-5b43-4e15-a2a3-8654b4ccf36a" width="100%" style="display: block; border-radius: 10px;">
     </td>
     <td width="60%" valign="middle" style="padding-left: 20px;">
-      <p>🚀 <b>Thriving in Computer Science 101</b></p>
-      <p>🔍 Passionate about exploring and solving bugs (mostly my own). Alright, so what?</p>
+      <p><b>Thriving in Computer Science 101</b></p>
+      <p>Passionate about exploring and solving bugs (mostly my own). Alright, so what?</p>
       <p><i>"I code because I can't find a 'Fix Everything' button."</i></p>
     </td>
   </tr>
