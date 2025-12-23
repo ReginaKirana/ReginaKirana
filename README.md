@@ -20,7 +20,7 @@
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0" width="60%" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0" width="40%" style="border-radius: 10px;">
 </p>
 
 <table width="100%">
@@ -53,6 +53,25 @@
     </td>
   </tr>
 </table>
+
+
+<div align="center">
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ReginaKirana&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ReginaKirana&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" 
+  />
+  <img 
+    alt="GitHub activity graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ReginaKirana&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" 
+    width="100%"
+  />
+</picture>
+</div>
 
 ---
 
