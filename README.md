@@ -1,4 +1,4 @@
-<div align="center">
+<img width="525" height="497" alt="image" src="https://github.com/user-attachments/assets/a32df006-5e7b-42d6-bbda-0e8ce715dfe9" /><div align="center">
   <h1>Hi, I'm Regina 🌟</h1>
 </div>
 
@@ -40,13 +40,13 @@
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true" 
+          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&langs_count=6" 
         />
         <source 
           media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true" 
+          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true&langs_count=6" 
         />
-        <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true" width="100%" />
+        <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true&langs_count=6" width="100%" />
       </picture>
     </td>
     <td width="50%" align="center">
