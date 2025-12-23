@@ -31,9 +31,22 @@
 </table>
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReginaKirana&theme=radical&hide_border=true" width="100%" alt="Regina's GitHub Streak" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=tokyonight&hide_border=true" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=default&hide_border=true" 
+    />
+    <img 
+      alt="GitHub Streak Stats" 
+      src="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=default&hide_border=true" 
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
