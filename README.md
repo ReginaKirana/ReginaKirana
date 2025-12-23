@@ -23,6 +23,14 @@
   <img src="https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0" width="40%" style="border-radius: 10px;">
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -74,13 +82,6 @@
 </div>
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
 
 ---
 
