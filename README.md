@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <h3>Activity</h3>
+  <h3>📊 Activity 📊</h3>
   <img src="https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0" width="40%" style="border-radius: 10px;">
   <br><br>
   <picture>
@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-  <h3>☕ Let's Connect</h3>
+  <h3>☕ Let's Connect ☕</h3>
   <a href="https://www.kaggle.com/reginakirana" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
