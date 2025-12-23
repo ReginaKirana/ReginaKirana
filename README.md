@@ -39,7 +39,7 @@
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=radical&hide=jupyter%20notebook&hide_border=true" 
         />
         <source 
           media="(prefers-color-scheme: light)" 
