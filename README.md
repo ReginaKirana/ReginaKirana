@@ -1,11 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Regina 🌟</h1>
-  <p><i>Informatics Student</i></p>
 </div>
 
 ---
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse;">
   <tr>
     <td width="40%" align="left" valign="top">
       <img src="https://github.com/user-attachments/assets/b2d4bffc-5b43-4e15-a2a3-8654b4ccf36a" width="100%" style="display: block; border-radius: 10px;">
@@ -27,13 +26,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph.svg" width="100%">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph.svg" width="100%" style="max-width: 1000px;">
   </picture>
 </div>
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="padding: 0;">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
@@ -43,10 +42,10 @@
           media="(prefers-color-scheme: light)" 
           srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true&langs_count=6" 
         />
-        <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true&langs_count=6" width="100%" />
+        <img alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true&langs_count=6" width="100%" />
       </picture>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="padding: 0;">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
@@ -78,16 +77,4 @@
       width="100%"
     />
   </picture>
-</div>
-
----
-
-<div align="center">
-  <h3>☕ Let's Connect</h3>
-  <a href="https://www.kaggle.com/reginakirana" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a> 
-  <a href="https://medium.com/@reginakirana" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
 </div>
