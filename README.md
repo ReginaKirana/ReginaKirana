@@ -6,11 +6,8 @@
       <img src="https://github.com/user-attachments/assets/b2d4bffc-5b43-4e15-a2a3-8654b4ccf36a" width="100%">
     </td>
     <td width="60%">
-      <h4> ✨ Quick Profile </h4>
       <p><b>Surviving and Thriving in Computer Science 101</b></p>
-      <ul>
-        <li> 🔍 Passionate about exploring and solving bugs (mostly my own).</li>
-      </ul>
+      </p>Passionate about exploring and solving bugs (mostly my own)</p>
       <p><i>"I code because I can't find a 'Fix Everything' button."</i></p>
     </td>
   </tr>
