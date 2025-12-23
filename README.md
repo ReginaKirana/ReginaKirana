@@ -73,6 +73,10 @@
 </picture>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ry0taK/github-readme-stats/master/examples/pacman.svg" width="100%" alt="Pacman eating contributions" />
+</div>
+
 ---
 
 ### ☕ Let's Connect
