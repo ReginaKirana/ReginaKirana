@@ -1,12 +1,13 @@
 <h1>Hi, I'm Regina 🌟</h1>
 ---
+
 <table>
   <tr>
     <td width="40%">
       <img src="https://github.com/user-attachments/assets/b2d4bffc-5b43-4e15-a2a3-8654b4ccf36a" width="100%">
     </td>
     <td width="60%">
-      <p><b>Surviving and Thriving in Computer Science 101</b></p>
+      <p><b>Thriving in Computer Science 101</b></p>
       </p>Passionate about exploring and solving bugs (mostly my own)</p>
       <p><i>"I code because I can't find a 'Fix Everything' button."</i></p>
     </td>
