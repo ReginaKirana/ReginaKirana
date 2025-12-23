@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Regina 🌟</h1>
-  <p><i>Computer Science Student</i></p>
+  <h2>Hi, I'm Regina 🌟</h2>
 </div>
 
 ---
