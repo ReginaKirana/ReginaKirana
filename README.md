@@ -89,4 +89,7 @@
   <a href="https://medium.com/@reginakirana" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
+  <a href="https://soundcloud.com/reiren-44595428" target="_blank">
+  <img src="https://img.shields.io/badge/-SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+  </a>
 </div>
