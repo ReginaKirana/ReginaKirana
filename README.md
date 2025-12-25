@@ -36,15 +36,15 @@
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" 
+          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&langs_count=6" 
         />
         <source 
           media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=420" 
+          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true&langs_count=6" 
         />
         <img 
           alt="Most Used Languages" 
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=420" 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true&langs_count=6" 
           width="100%" 
         />
       </picture>
