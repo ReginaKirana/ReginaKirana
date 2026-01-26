@@ -93,8 +93,11 @@
   <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hapi.js-Intermediate-FF4088?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Golang-Intermediate-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  
   <!-- Database -->
-  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 
