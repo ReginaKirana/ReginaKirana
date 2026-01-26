@@ -92,7 +92,11 @@
   <img src="https://img.shields.io/badge/Express.js-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Golang-Intermediate-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 
+---
+
+<div align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 
@@ -102,9 +106,6 @@
   <!-- Database -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
----
-
 
 ---
 
