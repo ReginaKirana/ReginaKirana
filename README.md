@@ -86,6 +86,21 @@
 ---
 
 <div align="center">
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-Intermediate-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+
+  
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hapi.js-Intermediate-FF4088?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Golang-Intermediate-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+---
+
+<div align="center">
   <h3>☕ Let's Connect ☕</h3>
   <a href="https://www.kaggle.com/reginakirana" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
