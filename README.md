@@ -86,19 +86,13 @@
 ---
 
 <div align="center">
-
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-Intermediate-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-
-  <br/><br/>
-
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hapi.js-Intermediate-FF4088?style=for-the-badge"/>
-  <br/><br/>
-
   <!-- Database -->
   <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
