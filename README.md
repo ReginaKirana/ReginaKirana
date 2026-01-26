@@ -97,19 +97,6 @@
 ---
 
 <div align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Hapi.js-FF4088?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
----
-
-<div align="center">
   <h3>☕ Let's Connect ☕</h3>
   <a href="https://www.kaggle.com/reginakirana" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
