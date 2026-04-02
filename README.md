@@ -4,57 +4,6 @@
 
 ---
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td width="40%" align="left" valign="top">
-      <img src="https://github.com/user-attachments/assets/b2d4bffc-5b43-4e15-a2a3-8654b4ccf36a" width="100%" style="display: block; border-radius: 10px;">
-    </td>
-    <td width="60%" valign="middle" style="padding-left: 20px;">
-      <p><b>Thriving in Computer Science 101</b></p>
-      <p>Passionate about exploring and solving bugs (mostly my own). Alright, so what?</p>
-      <p><i>"I code because I can't find a 'Fix Everything' button."</i></p>
-    </td>
-  </tr>
-</table>
-
----
-
-
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center" style="padding: 0;">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&langs_count=6" 
-        />
-        <source 
-          media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true&langs_count=6" 
-        />
-        <img 
-          alt="Most Used Languages" 
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&theme=default&hide=jupyter%20notebook&hide_border=true&langs_count=6" 
-          width="100%" 
-        />
-      </picture>
-    </td>
-    <td width="50%" align="center" style="padding: 0;">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=tokyonight&hide_border=true" 
-        />
-        <source 
-          media="(prefers-color-scheme: light)" 
-          srcset="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=default&hide_border=true" 
-        />
-        <img alt="GitHub Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=ReginaKirana&theme=default&hide_border=true" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <picture>
@@ -75,3 +24,6 @@
 </div>
 
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c657r76hhjwg7ecmepuuoopjcu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c657r76hhjwg7ecmepuuoopjcu&redirect=true)
+
