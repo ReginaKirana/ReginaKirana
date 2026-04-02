@@ -107,3 +107,7 @@
   <img src="https://img.shields.io/badge/-SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
   </a>
 </div>
+
+
+🎵 Currently listening:  
+[In My Bag - (klik untuk dengar)](https://music.apple.com/id/album/in-my-bag/1764571525?i=1764571543&l=id)
