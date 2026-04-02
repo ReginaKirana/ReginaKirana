@@ -19,16 +19,7 @@
 
 ---
 
-<div align="center">
-  <h3>-- Activity --</h3>
-  <img src="https://github.com/user-attachments/assets/702d481a-f26c-41ab-9c6b-6aa8a49876d0" width="40%" style="border-radius: 10px;">
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReginaKirana/ReginaKirana/output/pacman-contribution-graph.svg" width="100%" style="max-width: 1000px;">
-  </picture>
-</div>
+
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse;">
   <tr>
