@@ -109,5 +109,22 @@
 </div>
 
 
-🎵 Currently listening:  
-[In My Bag - (klik untuk dengar)](https://music.apple.com/id/album/in-my-bag/1764571525?i=1764571543&l=id)
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c657r76hhjwg7ecmepuuoopjcu&redirect=true">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31c657r76hhjwg7ecmepuuoopjcu&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=ff9ac1&bar_color_cover=true" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31c657r76hhjwg7ecmepuuoopjcu&cover_image=true&theme=novatorem&show_offline=false&background_color=fff0f5&interchange=true&bar_color=ff9ac1&bar_color_cover=true" 
+      />
+      <img 
+        alt="Spotify Now Playing" 
+        src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31c657r76hhjwg7ecmepuuoopjcu&cover_image=true&theme=novatorem&show_offline=false&background_color=fff0f5&interchange=true&bar_color=ff9ac1&bar_color_cover=true" 
+      />
+    </picture>
+  </a>
+</div>
