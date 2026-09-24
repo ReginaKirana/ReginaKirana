@@ -7,7 +7,8 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ReginaKirana&custom_title=Re's%20Contribution%20Graph&hide_border=true"
+    src="https://ghchart.rshah.org/ReginaKirana"
+    alt="Regina's GitHub contribution graph"
     width="100%"
   />
 </div>
