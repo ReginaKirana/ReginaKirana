@@ -1,20 +1,15 @@
 <div align="center">
   <h1>Hi, I'm Regina 🌟</h1>
-  <p>
-    Informatics Student at Diponegoro University
-  </p>
+  <p>Informatics Student at Diponegoro University</p>
 </div>
 
 ---
 
 <div align="center">
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ReginaKirana&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" height="165"/>
-
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ReginaKirana&custom_title=Re's%20Contribution%20Graph&hide_border=true"
+    width="100%"
+  />
 </div>
 
 ---
