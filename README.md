@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Regina 🌟</h1>
-  <p>Informatics Student at Diponegoro University</p>
 </div>
 
 ---
