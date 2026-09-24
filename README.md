@@ -11,9 +11,9 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ReginaKirana&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ReginaKirana&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaKirana&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" height="165"/>
 
 </div>
 
